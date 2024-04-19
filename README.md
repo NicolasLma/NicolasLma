@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasLma&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLma&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/NicolasLma/NicolasLma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicolasLma&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
